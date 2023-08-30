@@ -1,10 +1,8 @@
 package br.com.alura.loja.desconto;
 
 import br.com.alura.loja.orcamento.Orcamento;
-import sun.security.krb5.internal.crypto.Des;
 
 import java.math.BigDecimal;
-import java.util.Objects;
 
 public class CalculadoraDeDescontos {
 
@@ -16,7 +14,7 @@ public class CalculadoraDeDescontos {
                 )
         );
 
-        return desconto.calcular(orcamento);
+        return desconto.efetuarCalculo(orcamento);
     }
 
 }

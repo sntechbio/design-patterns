@@ -1,7 +1,6 @@
 package br.com.alura.loja.desconto;
 
 import br.com.alura.loja.orcamento.Orcamento;
-import sun.security.krb5.internal.crypto.Des;
 
 import java.math.BigDecimal;
 
@@ -13,7 +12,12 @@ public class SemDesconto extends Desconto {
 
 
     @Override
-    public BigDecimal calcular(Orcamento orcamento) {
+    public BigDecimal efetuarCalculo(Orcamento orcamento) {
         return BigDecimal.ZERO;
+    }
+
+    @Override
+    public boolean deveAplicar(Orcamento orcamento) {
+        return true;
     }
 }
