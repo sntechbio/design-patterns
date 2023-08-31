@@ -3,16 +3,6 @@ j
 :src/br/com/alura/loja/desconto/CalculadoraDeDescontos.java,0\e\0ef4017959593336401b29cb244316823c1d4c0b
 \
 ,src/br/com/alura/loja/desconto/Desconto.java,9\7\974b0896822b76123f7246786fc97f53c4d6fb83
-Y
-)src/br/com/alura/loja/TestesImpostos.java,5\5\550a6851068208db782ba9b2add1baf626a8d63a
-h
-8src/br/com/alura/loja/imposto/CalculadoraDeImpostos.java,7\e\7e53255c25a0d92e90b90dd906ac6af4372064aa
-W
-'src/br/com/alura/loja/imposto/ICMS.java,9\e\9ed1b3c367db03645d9c30bab37db4ec42ccdc16
-V
-&src/br/com/alura/loja/imposto/ISS.java,7\2\72157a2c55b1d6f71c04c97b2f9cdac68d9a0016
-Z
-*src/br/com/alura/loja/imposto/Imposto.java,e\7\e7bc023b397a60022fc1ada3b404e7e580207c8b
 g
 7src/br/com/alura/loja/orcamento/situacao/Reprovado.java,6\4\647f51f59cd14572719132c24166218394e51972
 g
